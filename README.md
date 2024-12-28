@@ -19,6 +19,10 @@ This is a Next.js application that allows users to filter vehicles by make and m
 
 - Use file .env.example to create .env.local file
 
+## Static Paths
+
+- Change the data in src\data\staticParams.json  to change the static makes routes
+
 ## Building for Production
 
 To create a production build, run:
